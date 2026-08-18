@@ -1,6 +1,6 @@
 # Yashraj Garg
 
-Undergraduate at **Trinity College, University of Cambridge**, working across
+Undergraduate at Trinity College, University of Cambridge, working across
 statistical inference, computational neuroscience, and data-intensive research.
 
 I am particularly interested in how quantitative models and computational
