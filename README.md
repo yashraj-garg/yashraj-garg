@@ -64,7 +64,6 @@ Individual differences · Human behaviour · Reproducible research
 ## Methods and tools
 
 **Programming & analysis:** R; Python; MATLAB
-
 **Statistical methods:** regression, generalized linear models, mixed-effects
 models, robust inference, multiple-testing procedures, sensitivity analysis  
 **Computational research:** HPC workflows, reproducible analysis pipelines  
