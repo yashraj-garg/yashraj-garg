@@ -1,8 +1,8 @@
 # Yashraj Garg
 
-Final-year Psychological and Behavioural Sciences undergraduate at Trinity College, University of Cambridge, working across **statistical inference, computational neuroscience, and data-intensive research**.
+Final-year Psychological and Behavioural Sciences undergraduate at Trinity College, University of Cambridge, working across statistical inference, computational neuroscience, and data-intensive research.
 
-My research interests centre on how statistical and computational models can be used to investigate cognition, individual differences, and human behaviour—particularly where conclusions depend on sampling, measurement, model specification, and the choice of statistical estimand.
+My research interests centre on how statistical and computational models can be used to investigate cognition, individual differences, and human behaviour, specifically where conclusions depend on sampling, measurement, model specification, and the choice of statistical estimand.
 
 ## Current research
 
